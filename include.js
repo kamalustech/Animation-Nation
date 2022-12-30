@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Blue Color',
+    pageLink: './Art/Kamal_animation/index.html',
+    imageLink: './Art/Kamal_animation/75ttdl.gif',
+    author: 'kamalustech',
+    githubLink: 'https://github.com/kamalustech'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
